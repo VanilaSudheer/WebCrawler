@@ -11,8 +11,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.RecursiveAction;
 import java.util.regex.Pattern;
-//TODO
-/*
+
 public class CrawlSubTask extends RecursiveAction {
     private final Clock clock;
     private final String url;
@@ -86,4 +85,4 @@ public class CrawlSubTask extends RecursiveAction {
 
 }
 
- */
+
